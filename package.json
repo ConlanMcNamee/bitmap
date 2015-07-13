@@ -1,0 +1,27 @@
+{
+  "name": "bitmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bitmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConlanMcNamee/bitmap.git"
+  },
+  "author": "Conlan McNamee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConlanMcNamee/bitmap/issues"
+  },
+  "homepage": "https://github.com/ConlanMcNamee/bitmap#readme",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5"
+  }
+}
